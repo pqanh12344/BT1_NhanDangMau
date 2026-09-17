@@ -1,1 +1,2 @@
 # BT1_NhanDangMau
+# XÂY DỰNG PIPELINE HỒI QUY VỚI TIỀN XỬ LÝ VÀ GIẢM CHIỀU PCA
